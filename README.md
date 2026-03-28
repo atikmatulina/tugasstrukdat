@@ -8,7 +8,7 @@ KELAS: STRUKTUR DATA DAN PEMROGRAMAN BERORIENTASI A
 # DESKRIPSI
 Pemilik kos yang menggunakan sistem smart door yang dapat mendeteksi dan mengenali nama penghuni, nomor kamar, dan plat kendaraan untuk mencegah kemalingan atau pencurian benda dan barang yang ada di lingkungan KOS NCT 127.
 # CLASS DIAGRAM 
-
+https://github.com/atikmatulina/tugasstrukdat/blob/520777b594d9e7fcae80b9566a415847183baabd/CLASS%20DIAGRAM
 
 # KODE PROGRAM 
 
