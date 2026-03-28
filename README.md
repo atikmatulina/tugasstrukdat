@@ -23,7 +23,13 @@ Object = membuat intance dari class yang menggunakan new. contoh : SmartDoor sma
 
 Encapsulation = untuk menyembunyikan data internal dari luar class (private)
 
-Composition & Aggregation = 
+private String nama;
+private boolean aktif;
+
+public String getNama() { return nama; }      // getter
+public void setAktif(boolean aktif) { ... }   // setter
+
+Assosiation = untuk menyimpan dan mengelola objek 
 
 # PENJELASAN KEUNIKAN PROGRAM 
 1. untuk menedeteksi siapa penghuni kos (baru atau lama) yang sedang menempati kos tsb
