@@ -11,7 +11,7 @@ Pemilik kos yang menggunakan sistem smart door yang dapat mendeteksi dan mengena
 https://github.com/atikmatulina/tugasstrukdat/blob/520777b594d9e7fcae80b9566a415847183baabd/CLASS%20DIAGRAM
 
 # KODE PROGRAM 
-
+https://github.com/atikmatulina/tugasstrukdat/blob/f420dc260fc4c6c1db23763a01da90d91c0e7d7a/KODE%20PROGRAM
 
 # SCREENSHOT OUTPUT
 
@@ -28,4 +28,3 @@ Composition & Aggregation =
 # PENJELASAN KEUNIKAN PROGRAM 
 1. untuk menedeteksi siapa penghuni kos (baru atau lama) yang sedang menempati kos tsb
 2. meminimalisir pencurian kendaraan dan barang penghuni kos
-3. 
