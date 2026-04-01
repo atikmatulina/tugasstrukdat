@@ -18,6 +18,12 @@ https://github.com/atikmatulina/tugasstrukdat/blob/f420dc260fc4c6c1db23763a01da9
 
 ![WhatsApp Image 2026-04-01 at 2 04 55 PM (1)](https://github.com/user-attachments/assets/c967f455-08e2-4167-bdda-3804278880b0)
 
+![WhatsApp Image 2026-04-01 at 2 04 55 PM (2)](https://github.com/user-attachments/assets/1c8d5ba9-86a1-4c00-8021-01b40a964186)
+
+![WhatsApp Image 2026-04-01 at 2 04 56 PM](https://github.com/user-attachments/assets/b4025b7e-928b-459a-82a0-3b3082bd8263)
+
+
+
 
 
 
