@@ -16,6 +16,9 @@ https://github.com/atikmatulina/tugasstrukdat/blob/f420dc260fc4c6c1db23763a01da9
 # SCREENSHOT OUTPUT
 ![WhatsApp Image 2026-04-01 at 2 04 55 PM](https://github.com/user-attachments/assets/a34d2943-c14b-4dbe-b190-5eccf390520f)
 
+![WhatsApp Image 2026-04-01 at 2 04 55 PM (1)](https://github.com/user-attachments/assets/c967f455-08e2-4167-bdda-3804278880b0)
+
+
 
 
 # PENJELASAN OOP YANG DIGUNAKAN 
