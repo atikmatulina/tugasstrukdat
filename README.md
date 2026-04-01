@@ -14,7 +14,7 @@ https://github.com/atikmatulina/tugasstrukdat/blob/520777b594d9e7fcae80b9566a415
 https://github.com/atikmatulina/tugasstrukdat/blob/f420dc260fc4c6c1db23763a01da90d91c0e7d7a/KODE%20PROGRAM
 
 # SCREENSHOT OUTPUT
-<img width="1470" height="956" alt="Screenshot 2026-03-28 at 12 42 23 PM" src="https://github.com/user-attachments/assets/6998ef38-c4db-4b61-8651-11fe6e1a71a7" />
+![WhatsApp Image 2026-04-01 at 2 04 55 PM (1)](https://github.com/user-attachments/assets/313e7ab4-aa23-4835-ae50-b80eee95f7f6)
 
 
 
